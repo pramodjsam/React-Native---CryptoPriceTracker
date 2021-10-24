@@ -34,8 +34,8 @@ npm start
 
 ## Screenshot
 
-![MainPage](./screenshot/1.png "Main Page")
-![Chart](./screenshot/2.png "Chart")
+![MainPage](./screenshots/1.png "Main Page")
+![Chart](./screenshots/2.png "Chart")
 
 ## Development
 
